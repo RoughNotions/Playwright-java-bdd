@@ -17,8 +17,10 @@ CI/CD-Ready: Works out-of-the-box with GitHub Actions, Jenkins, Azure DevOps, et
 Java 11+
 Maven 3.6+
 Node.js (required by Playwright CLI)
+
+
 🛠️ Setup & Installation
 
 Clone the repo
-git clone https://github.com/playwright-bdd-sample.git
-cd playwright-bdd-sample
+  git clone https://github.com/playwright-bdd-sample.git
+  cd playwright-bdd-sample
