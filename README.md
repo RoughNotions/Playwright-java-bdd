@@ -10,6 +10,8 @@ Environment-Based Configs: Switch targets via Maven profiles or system propertie
 JUnit 5 Suite Runner: Leverage @Suite & @SelectClasspathResource for Cucumber integration.
 HTML & “Pretty” Reports: Automatic generation under target/.
 CI/CD-Ready: Works out-of-the-box with GitHub Actions, Jenkins, Azure DevOps, etc.
+
+
 ⚙️ Prerequisites
 
 Java 11+
